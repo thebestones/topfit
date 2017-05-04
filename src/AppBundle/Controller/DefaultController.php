@@ -12,6 +12,7 @@ class DefaultController extends Controller
      * @Route("/", name="homepage")
      */
     //hola com estem
+    //molt bé
     public function indexAction(Request $request)
     {
         // Hola mundo
