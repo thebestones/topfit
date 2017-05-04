@@ -13,6 +13,7 @@ class DefaultController extends Controller
      */
     //hola com estem
     //molt bé
+    //d'acord
     public function indexAction(Request $request)
     {
         // Hola mundo
